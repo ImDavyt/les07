@@ -1,7 +1,7 @@
-# Ga naar review1-1
+# Game Reviews
 
-Voor Davy's review
+Zet hieronder de links naar jouw game review.
 
-# Ga naar review 2
+[Review 1](Review1.md)
 
-Voor tim's review
+[Review 2](Review2.md)
