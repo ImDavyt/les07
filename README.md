@@ -1,7 +1,5 @@
-# Game Reviews
+# Grand theft auto V
 
-Zet hieronder de links naar jouw game review.
+Beste game ooit gemaakt!!
 
-[Review 1](Review1.md)
-
-[Review 2](Review2.md)
+10/10 ign
